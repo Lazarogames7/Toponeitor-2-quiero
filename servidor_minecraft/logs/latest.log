@@ -98,3 +98,8 @@
 [04Apr2025 22:29:42.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Eulissip_xX has made the advancement [Stone Age]
 [04Apr2025 22:30:32.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx_Eulissip_xX lost connection: Disconnected
 [04Apr2025 22:30:32.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Eulissip_xX left the game
+[04Apr2025 22:42:13.970] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx_Eulissip_xX[/100.90.201.52:58054] logged in with entity id 681 at (-104.6919000454387, 66.0, -135.69999998807907)
+[04Apr2025 22:42:13.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Eulissip_xX joined the game
+[04Apr2025 22:42:45.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Eulissip_xX has made the advancement [Getting an Upgrade]
+[04Apr2025 22:45:23.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx_Eulissip_xX lost connection: Disconnected
+[04Apr2025 22:45:23.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Eulissip_xX left the game
